@@ -1,1 +1,4 @@
-# Pass-Task-3.1
+# Pac-Man
+SWE20001 DEVELOPMENT PROJECT 1 TOOLS AND PRACTICES Pass Task 3.1
+
+Lab 2 Group 1
